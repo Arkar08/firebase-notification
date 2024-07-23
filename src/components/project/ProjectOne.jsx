@@ -1,6 +1,6 @@
 const ProjectOne = () => {
   return (
-    <div className="border w-[400px] border-black p-4 rounded-sm">
+    <div className="border w-[400px] border-black p-4 rounded-md">
       <h1 className="text-2xl font-bold">Arkar</h1>
       <h2 className="text-xl">Blah Blah Blah</h2>
       <p className="text-end">23rd july 2024</p>
